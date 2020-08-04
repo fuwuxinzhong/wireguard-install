@@ -1,0 +1,60 @@
+{
+  "projectName": "wireguard-install",
+  "projectOwner": "angristan",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "angristan",
+      "name": "Stanislas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11699655?v=4",
+      "profile": "https://stanislas.blog/",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "review"
+      ]
+    },
+    {
+      "login": "randomshell",
+      "name": "randomshell",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/43271778?v=4",
+      "profile": "https://keybase.io/randomshell",
+      "contributions": [
+        "question",
+        "bug",
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "lucawen",
+      "name": "Luca Lacerda",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1365208?v=4",
+      "profile": "https://github.com/lucawen",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "robiiinos",
+      "name": "D. Robin",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16455953?v=4",
+      "profile": "https://github.com/robiiinos",
+      "contributions": [
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
